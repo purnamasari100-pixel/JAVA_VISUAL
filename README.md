@@ -43,7 +43,7 @@ NIM: 253303621208
 
 Mata Kuliah: Java Visual (SIH-6406)
 
-Link Google Docs
-Analisis Desain & Ekosistem Java: https://1drv.ms/w/c/EF681E4F4E3CE288/IQDqJC2Mf0kfTLZQwhtF7HO-AfR2c_EF1jh3Jzw-aNt7nE4?e=cmzTdM
+Link Google Docs:
+https://1drv.ms/w/c/EF681E4F4E3CE288/IQAz1p2p37D5Q5d16b9GdislAS0BlyOZ13WNgX1SBU88mB8?e=vY9mSq
 
 
